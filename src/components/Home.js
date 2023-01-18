@@ -4,7 +4,7 @@ import './Home.css';
 
 const Home = () => {
     function sayHello() {
-        alert('You clicked me!');
+        alert('You clicked me wow!');
       }
     return (
         <div>
